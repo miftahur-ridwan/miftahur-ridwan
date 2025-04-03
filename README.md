@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miftahur-ridwan&label=Profile%20views&color=0e75b6&style=flat" alt="miftahur-ridwan" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working at **Insura Media Solusi** as a Frontend Developer placed and assigned at **Kawan Lama Group**
+- 🔭 I’m currently working at **Insura Media Solusi** placed and assigned at **Kawan Lama Group**
 
 - 🌱 I’m currently learning **Ruby on rails, laravel**
 
