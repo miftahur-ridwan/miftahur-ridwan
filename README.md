@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mip</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miftahur-ridwan&label=Profile%20views&color=0e75b6&style=flat" alt="miftahur-ridwan" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Insura Media Solusi**
+- 🔭 I’m currently working at **Insura Media Solusi** as a Frontend Developer placed and assigned at **Kawan Lama Group**
 
 - 🌱 I’m currently learning **Ruby on rails, laravel**
 
