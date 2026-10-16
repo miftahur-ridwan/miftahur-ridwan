@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miftahur-ridwan&label=Profile%20views&color=0e75b6&style=flat" alt="miftahur-ridwan" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working at **Insura Media Solusi** placed and assigned at **Kawan Lama Group**
+- 🔭 I’m currently working at **Kawan Lama Group**
 
-- 🌱 I’m currently learning **Ruby on rails, laravel**
+- 🌱 I’m currently learning mobile development use **flutter**
 
-- 👨‍💻 All of my projects are available at [https://miftahur-ridwan.com/projects](https://miftahur-ridwan.com/projects)
+- 👨‍💻 All of collaborated projects are available at [https://miftahur-ridwan.com/projects](https://miftahur-ridwan.com/projects)
 
 - 💬 Ask me about **vue, nuxt**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://miftahur-ridwan.com/about](https://miftahur-ridwan.com/about)
 
-- ⚡ Fun fact **Active people & love outdoor activity**
+- ⚡ Fun fact **Activepeople, love nature and outdoor activity**
 
 
 ## 🌐 Socials:
